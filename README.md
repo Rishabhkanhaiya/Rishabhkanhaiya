@@ -33,7 +33,9 @@ I love solving real-world friction by architecting production software from firs
 
 ---
 
-### 🏆 Milestone 
+### 🏆 Hackathons & Competitions
+* 🇮🇳 **Smart India Hackathon (SIH 2026)** — Team Lead / Architect for Team Trace Forge (`SIH26127`), building the Urban Pulse AI Smart City Platform.
+* ⚡ **Code Apex 75-Hour Hackathon** — Engineered and shipped Kartos Autonomous AI QA Engine benchmarked across 10 diverse production web apps.
 * 🏢 **Founder @ Treliotech** — Solo-architected the complete full-stack escrow verification protocol and autonomous clinic booking workflows.
 
 ---
@@ -64,5 +66,5 @@ I love solving real-world friction by architecting production software from firs
 ### 📬 Connect with Me
 * 🌐 **Website:** [treliotech.com](https://treliotech.com)
 * 🐙 **GitHub:** [@Rishabhkanhaiya](https://github.com/Rishabhkanhaiya)
-* 💼 **LinkedIn:** [linkedin.com/in/rishabhkanhaiya](https://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/rishabh-joshi-15233322a](https://www.linkedin.com/in/rishabh-joshi-15233322a)
 * 📍 **Location:** Pune, Maharashtra, India
