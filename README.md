@@ -33,9 +33,7 @@ I love solving real-world friction by architecting production software from firs
 
 ---
 
-### 🏆 Hackathons & Competitions
-* 🇮🇳 **Smart India Hackathon (SIH 2026)** — Team Lead / Architect for Team Trace Forge (`SIH26127`), building the Urban Pulse AI Smart City Platform.
-* ⚡ **Code Apex 75-Hour Hackathon** — Engineered and shipped Kartos Autonomous AI QA Engine benchmarked across 10 diverse production web apps.
+### 🏆 Milestone 
 * 🏢 **Founder @ Treliotech** — Solo-architected the complete full-stack escrow verification protocol and autonomous clinic booking workflows.
 
 ---
